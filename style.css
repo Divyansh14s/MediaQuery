@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(212, 255, 0);
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+@media (min-width:640px) {
+    body{
+        background-color: rgb(43, 226, 214);
+    }
+    h1 {
+        color: rgb(255, 0, 0);
+    }
+}
