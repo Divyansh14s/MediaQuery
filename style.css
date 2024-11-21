@@ -16,3 +16,12 @@ h1 {
         color: rgb(255, 0, 0);
     }
 }
+
+@media (min-width:768px) {
+    body{
+        background-color: rgb(226, 101, 43);
+    }
+    h1 {
+        color: rgb(2, 8, 9);
+    }
+}
